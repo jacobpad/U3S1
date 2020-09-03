@@ -1,3 +1,3 @@
-from my_lambdata.ds_utilities import enlarge
+from my_lambdata.ds_utilities import ten_x
 
-print(enlarge(5))
+print(ten_x(5))

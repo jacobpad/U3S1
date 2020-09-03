@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="My Cool Functions",  # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Jacob Padgett",
     author_email="jacobpad@gmail.com",
     description="A short description... no, I'm actually tall.",
